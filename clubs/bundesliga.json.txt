@@ -1,0 +1,32 @@
+{
+  "bundesliga_clubs_since_2010": [
+    "Bayern Munich",
+    "Borussia Dortmund",
+    "RB Leipzig",
+    "Bayer Leverkusen",
+    "Borussia Mönchengladbach",
+    "VfB Stuttgart",
+    "Werder Bremen",
+    "Schalke 04",
+    "Eintracht Frankfurt",
+    "Hoffenheim",
+    "1. FC Köln",
+    "Mainz 05",
+    "Wolfsburg",
+    "Augsburg",
+    "Union Berlin",
+    "Freiburg",
+    "1. FC Nürnberg",
+    "Hamburger SV",
+    "Fortuna Düsseldorf",
+    "St. Pauli",
+    "Karlsruher SC",
+    "VfL Bochum",
+    "Darmstadt 98",
+    "Hannover 96",
+    "Energie Cottbus",
+    "Kaiserslautern",
+    "Bielefeld",
+    "Paderborn"
+  ]
+}
